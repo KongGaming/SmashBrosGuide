@@ -16,7 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".BeginnerGuide"></activity>
+        <activity android:name=".BeginnerGuide" />
+        <activity android:name=".Characters"></activity>
     </application>
 
 </manifest>
